@@ -1,6 +1,6 @@
 # test-repository-
 
-# Usman Academic Record
+# Usmans Academic Record
 
 | Education     | Institution   | Grades    |
 | :------------:|:-------------:|:---------:|
